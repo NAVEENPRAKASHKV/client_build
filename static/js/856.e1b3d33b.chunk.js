@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkapplication=self.webpackChunkapplication||[]).push([[856],{5856:(e,a,i)=>{i.r(a),i.d(a,{default:()=>c});i(5043);var l=i(579);const c=()=>(0,l.jsx)("div",{children:"SellerToAdmin"})}}]);
+//# sourceMappingURL=856.e1b3d33b.chunk.js.map

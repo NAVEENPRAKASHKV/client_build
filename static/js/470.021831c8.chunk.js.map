@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/470.021831c8.chunk.js","mappings":"4JAEA,MAIA,EAJiBA,KACRC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,Y","sources":["views/seller/Payments.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nconst Payments = () => {\r\n  return <div>Payments</div>;\r\n};\r\n\r\nexport default Payments;\r\n"],"names":["Payments","_jsx","children"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkapplication=self.webpackChunkapplication||[]).push([[54],{4054:(a,e,i)=>{i.r(e),i.d(e,{default:()=>c});i(5043);var n=i(579);const c=()=>(0,n.jsx)("div",{children:"Pending"})}}]);
+//# sourceMappingURL=54.d3dbb500.chunk.js.map

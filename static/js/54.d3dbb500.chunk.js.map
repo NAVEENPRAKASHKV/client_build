@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/54.d3dbb500.chunk.js","mappings":"2JAEA,MAIA,EAJgBA,KACPC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,W","sources":["views/Pending.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nconst Pending = () => {\r\n  return <div>Pending</div>;\r\n};\r\n\r\nexport default Pending;\r\n"],"names":["Pending","_jsx","children"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/161.d79f4d01.chunk.js","mappings":"4JAEA,MAIA,EAJcA,KACLC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,S","sources":["views/seller/Offer.jsx"],"sourcesContent":["import React from \"react\";\r\n\r\nconst Offer = () => {\r\n  return <div>Offer</div>;\r\n};\r\n\r\nexport default Offer;\r\n"],"names":["Offer","_jsx","children"],"sourceRoot":""}
